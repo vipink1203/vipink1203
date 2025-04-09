@@ -31,5 +31,4 @@
 <p align="center">
 <a href="https://www.vipinkumar.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.vipinkumar.me-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/vipink1203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vipin%20Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:vipink1203@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vipink1203@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
