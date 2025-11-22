@@ -20,7 +20,7 @@
 class VipinKumar:
     def __init__(self):
         self.role = "Sr. DevSecOps Engineer"
-        self.location = "India"
+        self.location = "USA"
         self.certifications = ["AWS Solutions Architect - Associate"]
         self.current_focus = ["Agentic Workflows", "MCP Development", "Cloud Native Architectures"]
         self.interests = ["AI Applications", "Systems Design", "Security Engineering"]
