@@ -6,20 +6,20 @@
 <!-- Animated AI Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00FFF0&center=true&vCenter=true&width=800&height=80&lines=.+.+.+Initializing+AI+Systems+.+.+.;DevSecOps+Engineer+%7C+Cloud+Architect;Building+Intelligent+Autonomous+Systems;Crafting+the+Future+with+AI+%26+Automation" alt="AI Typing Animation" />
 
-<!-- Neural Network Animation -->
+<!-- AI Systems Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="800">
 
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Status-AI_ONLINE-00ff41?style=for-the-badge&labelColor=000000&color=00ff41" />
-  <img src="https://komarev.com/ghpvc/?username=vipink1203&label=NEURAL_CONNECTIONS&color=00fff0&style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=vipink1203&label=PROFILE_VIEWS&color=00fff0&style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/🧠_Mode-AUTONOMOUS-8000ff?style=for-the-badge&labelColor=000000" />
 </p>
 
 <!-- Social Links with Futuristic Styling -->
 <p align="center">
   <a href="https://www.vipinkumar.me/">
-    <img src="https://img.shields.io/badge/🌐_NEURAL_NET-www.vipinkumar.me-00fff0?style=for-the-badge&labelColor=000000&color=00fff0"/>
+    <img src="https://img.shields.io/badge/🌐_WEBSITE-www.vipinkumar.me-00fff0?style=for-the-badge&labelColor=000000&color=00fff0"/>
   </a>
   <a href="https://www.linkedin.com/in/vipinkumar0312/">
     <img src="https://img.shields.io/badge/⚡_CONNECT-LinkedIn-00a2ff?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=00a2ff"/>
@@ -64,12 +64,12 @@ class AIEngineer:
             "ai": ["Agentic Workflows", "MCP Developer"]
         }
 
-        self.neural_networks = {
-            "current_training": [
+        self.current_focus = {
+            "learning": [
                 "🔮 Advanced Agentic AI Systems",
                 "🌐 Model Context Protocol (MCP)",
                 "⚙️ Cloud-Native AI Architectures",
-                "🧬 Neural Network Design Patterns"
+                "🧬 Distributed Systems Design"
             ]
         }
 
@@ -99,18 +99,17 @@ print(engineer.broadcast_signal())
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> TECH.STACK :: NEURAL_MODULES
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> TECH.STACK :: CORE_MODULES
 
 <div align="center">
 
 ### ⚡ Core Programming Languages
 <img src="https://skillicons.dev/icons?i=python,bash,html,css,javascript&theme=dark" />
 
-### 🧠 AI & Machine Learning
+### 🤖 AI & Automation
 <p>
   <img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Model_Context_Protocol-00FFF0?style=for-the-badge&logo=protocol&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Neural_Networks-8000FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/LLM_Integration-00FF9F?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
 </p>
 
@@ -157,7 +156,7 @@ print(engineer.broadcast_signal())
 
 ```ascii
 ╔════════════════════════════════════════════════════════╗
-║  MCP: The Neural Interface for Intelligent Systems   ║
+║  MCP: The AI Interface for Intelligent Systems       ║
 ║  ─────────────────────────────────────────────────    ║
 ║  ⚡ Standardized Context Exchange                     ║
 ║  🧠 Intelligent Automation                            ║
@@ -188,7 +187,7 @@ print(engineer.broadcast_signal())
   <img src="https://github-profile-trophy.vercel.app/?username=vipink1203&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&title_color=00fff0&text_color=ffffff&icon_color=8000ff" width="100%" />
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Neural Activity Graph
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Contribution Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipink1203&bg_color=000000&color=00fff0&line=8000ff&point=00a2ff&area=true&hide_border=true&title_color=00fff0&area_color=8000ff" width="100%" />
@@ -213,7 +212,7 @@ mission_control:
       status: "🟡 RESEARCHING"
       priority: "HIGH"
 
-    - designation: "Neural Network Integration"
+    - designation: "Distributed Systems Integration"
       status: "🟢 ACTIVE"
       priority: "MEDIUM"
 
