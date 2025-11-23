@@ -1,155 +1,278 @@
 <div align="center">
 
-# 👋 Hi there, I'm Vipin Kumar!
+<!-- Header with Cyberpunk Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,50:00a2ff,100:8000ff&height=200&section=header&text=VIPIN%20KUMAR&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SR.%20DEVSECOPS%20ENGINEER%20|%20AI%20ARCHITECT&descAlignY=55&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Sr.+DevSecOps+Engineer;AWS+Certified+Solutions+Architect;Cloud+%26+AI+Enthusiast;MCP+Developer" alt="Typing SVG" />
+<!-- Animated AI Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00FFF0&center=true&vCenter=true&width=800&height=80&lines=.+.+.+Initializing+AI+Systems+.+.+.;DevSecOps+Engineer+%7C+Cloud+Architect;Building+Intelligent+Autonomous+Systems;Crafting+the+Future+with+AI+%26+Automation" alt="AI Typing Animation" />
 
+<!-- Neural Network Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="800">
+
+<!-- Badges -->
 <p align="center">
-  <a href="https://www.vipinkumar.me/"><img src="https://img.shields.io/badge/Website-www.vipinkumar.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vipinkumar0312/"><img src="https://img.shields.io/badge/LinkedIn-Vipin%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=vipink1203&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/⚡_Status-AI_ONLINE-00ff41?style=for-the-badge&labelColor=000000&color=00ff41" />
+  <img src="https://komarev.com/ghpvc/?username=vipink1203&label=NEURAL_CONNECTIONS&color=00fff0&style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🧠_Mode-AUTONOMOUS-8000ff?style=for-the-badge&labelColor=000000" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Social Links with Futuristic Styling -->
+<p align="center">
+  <a href="https://www.vipinkumar.me/">
+    <img src="https://img.shields.io/badge/🌐_NEURAL_NET-www.vipinkumar.me-00fff0?style=for-the-badge&labelColor=000000&color=00fff0"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vipinkumar0312/">
+    <img src="https://img.shields.io/badge/⚡_CONNECT-LinkedIn-00a2ff?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=00a2ff"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 </div>
 
-## 👨🏻‍💻 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> SYSTEM.INIT :: ABOUT_ME
 
 ```python
-class VipinKumar:
+#!/usr/bin/env python3
+"""
+╔══════════════════════════════════════════════════════════╗
+║  AI-DRIVEN ENGINEER INSTANCE :: VIPIN KUMAR v2.0        ║
+║  Runtime: Earth | Location: USA | Status: ACTIVE        ║
+╚══════════════════════════════════════════════════════════╝
+"""
+
+class AIEngineer:
     def __init__(self):
-        self.role = "Sr. DevSecOps Engineer"
-        self.location = "USA"
-        self.certifications = ["AWS Solutions Architect - Associate"]
-        self.current_focus = ["Agentic Workflows", "MCP Development", "Cloud Native Architectures"]
-        self.interests = ["AI Applications", "Systems Design", "Security Engineering"]
+        self.identity = {
+            "name": "Vipin Kumar",
+            "role": "Sr. DevSecOps Engineer",
+            "version": "2.0.AI",
+            "status": "⚡ ONLINE",
+            "location": "USA"
+        }
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        self.core_directives = [
+            "🤖 Build Intelligent Autonomous Systems",
+            "🛡️ Secure the Digital Frontier",
+            "☁️ Architect Scalable Cloud Infrastructure",
+            "🧠 Integrate AI into Every Layer"
+        ]
 
-me = VipinKumar()
-me.say_hi()
+        self.certifications = {
+            "cloud": ["AWS Solutions Architect - Associate"],
+            "security": ["DevSecOps Certified"],
+            "ai": ["Agentic Workflows", "MCP Developer"]
+        }
+
+        self.neural_networks = {
+            "current_training": [
+                "🔮 Advanced Agentic AI Systems",
+                "🌐 Model Context Protocol (MCP)",
+                "⚙️ Cloud-Native AI Architectures",
+                "🧬 Neural Network Design Patterns"
+            ]
+        }
+
+    def execute_mission(self):
+        print("⚡ Mission: Bridging AI and Infrastructure")
+        print("🎯 Objective: Build the autonomous future")
+        print("💫 Status: Engineering tomorrow, today")
+
+    def broadcast_signal(self):
+        return "🚀 Ready to collaborate on next-gen AI projects!"
+
+# Initialize AI Instance
+engineer = AIEngineer()
+engineer.execute_mission()
+print(engineer.broadcast_signal())
 ```
 
-🚀 **Passionate** about exploring the ever-evolving tech landscape, crafting robust software solutions, and finding clever hacks to solve complex problems.
-
-🛡️ **Currently thriving** as a Sr. DevSecOps Engineer, focusing on building secure, scalable, and efficient cloud systems.
-
-☁️ **Certified** AWS Solutions Architect - Associate, with hands-on experience in designing and deploying cloud-native applications.
-
-🌱 **Actively Learning:**
-- Cloud Native Architectures & Systems Design
-- AI/ML Applications & Integration
-- Agentic Workflow Development
-- Model Context Protocol (MCP) Development
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack & Tools
-
-### Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/NocoDB-2C3E50?style=for-the-badge&logo=nocodb&logoColor=white" />
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-
-### Emerging Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-4A90E2?style=for-the-badge&logo=protocol&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Applications-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ✨ Spotlight: Model Context Protocol (MCP)
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipink1203&repo=mcp-github-enterprise&theme=react&hide_border=true&bg_color=0D1117" />
-</div>
-
-I'm actively exploring and implementing the **Model Context Protocol (MCP)**, a groundbreaking specification designed to standardize how context information is structured and exchanged with AI models, particularly in agentic systems.
-
-🔗 **Featured Work:** [MCP Server for GitHub Enterprise Integration](https://mcp.so/server/mcp-github-enterprise/vipink1203)
-
-This implementation demonstrates how MCP can be leveraged to create seamless integrations between AI systems and enterprise tools, enabling more intelligent and context-aware automation.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vipink1203&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Vipin's GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipink1203&theme=react&hide_border=true&background=0D1117" alt="Vipin's Streak Stats"/>
+**`[SYSTEM STATUS]`** Building the bridge between **AI intelligence** and **cloud infrastructure** 🌉
 
-<img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vipink1203&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117" alt="Vipin's Top Languages"/>
+**`[CURRENT MISSION]`** Crafting secure, scalable, autonomous systems that think and adapt ⚡
+
+**`[CORE BELIEF]`** The future is autonomous, intelligent, and built in the cloud 🚀
 
 </div>
 
-### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> TECH.STACK :: NEURAL_MODULES
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipink1203&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+
+### ⚡ Core Programming Languages
+<img src="https://skillicons.dev/icons?i=python,bash,html,css,javascript&theme=dark" />
+
+### 🧠 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-00FFF0?style=for-the-badge&logo=protocol&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Neural_Networks-8000FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LLM_Integration-00FF9F?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
+</p>
+
+### 🌐 Web Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=django,flask,streamlit,bootstrap,fastapi&theme=dark" />
+
+### 🗄️ Database Systems
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,supabase&theme=dark" />
+
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,github,gitlab&theme=dark" />
+
+### 🛡️ DevSecOps Arsenal
+<p>
+  <img src="https://img.shields.io/badge/CI/CD_Pipeline-00A2FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Infrastructure_as_Code-8000FF?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Security_First-FF0080?style=for-the-badge&logo=security&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Automation-00FFF0?style=for-the-badge&logo=ansible&logoColor=white&labelColor=000000" />
+</p>
+
 </div>
 
-### 📈 Contribution Graph
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> SPOTLIGHT :: MCP_PROTOCOL
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipink1203&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+
+### 🧬 **Building the Future of AI Context Management**
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+
+**Model Context Protocol (MCP)** represents the next evolution in AI system integration—enabling seamless, standardized communication between AI models and enterprise systems.
+
+🔗 **Featured Implementation**
+[![MCP Server Card](https://github-readme-stats.vercel.app/api/pin/?username=vipink1203&repo=mcp-github-enterprise&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00fff0&icon_color=8000ff&text_color=ffffff)](https://github.com/vipink1203/mcp-github-enterprise)
+
+[**🌐 Explore on MCP Directory**](https://mcp.so/server/mcp-github-enterprise/vipink1203)
+
+```ascii
+╔════════════════════════════════════════════════════════╗
+║  MCP: The Neural Interface for Intelligent Systems   ║
+║  ─────────────────────────────────────────────────    ║
+║  ⚡ Standardized Context Exchange                     ║
+║  🧠 Intelligent Automation                            ║
+║  🔗 Seamless Enterprise Integration                   ║
+╚════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 🎯 What I'm Up To
-
-- 🔭 Currently working on **Agentic Workflow Systems** and **MCP Server Implementations**
-- 💡 Building intelligent automation solutions with **AI/ML integration**
-- 📚 Deepening my knowledge in **Cloud Native Architectures** and **Systems Design**
-- 🤝 Open to collaborate on **Cloud Infrastructure**, **DevSecOps**, and **AI Projects**
-- 💬 Ask me about **AWS**, **Python**, **DevSecOps**, **MCP**, or **Agentic Workflows**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> ANALYTICS :: SYSTEM_METRICS
 
 <div align="center">
 
-I'm always interested in connecting with fellow developers, DevOps enthusiasts, and tech innovators!
+<!-- GitHub Stats with Dark Theme -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vipink1203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00fff0&icon_color=8000ff&text_color=ffffff&ring_color=00fff0&fire_color=00fff0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipink1203&theme=tokyonight&hide_border=true&background=000000&ring=00fff0&fire=8000ff&currStreakLabel=00fff0&sideLabels=ffffff&currStreakNum=00fff0&dates=ffffff" />
+
+<!-- Language Stats -->
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipink1203&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00fff0&text_color=ffffff" />
+
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-900e5e4a-c7f7-4f0e-9daf-de56cc21c160.png" width="25" /> Achievement Matrix
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vipink1203&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&title_color=00fff0&text_color=ffffff&icon_color=8000ff" width="100%" />
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Neural Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipink1203&bg_color=000000&color=00fff0&line=8000ff&point=00a2ff&area=true&hide_border=true&title_color=00fff0&area_color=8000ff" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" /> CURRENT.OBJECTIVES :: ACTIVE_MISSIONS
+
+```yaml
+mission_control:
+  primary_objectives:
+    - designation: "Agentic AI Systems Development"
+      status: "🟢 ACTIVE"
+      priority: "CRITICAL"
+
+    - designation: "MCP Server Implementation"
+      status: "🟢 IN_PROGRESS"
+      priority: "HIGH"
+
+    - designation: "Cloud-Native AI Architecture"
+      status: "🟡 RESEARCHING"
+      priority: "HIGH"
+
+    - designation: "Neural Network Integration"
+      status: "🟢 ACTIVE"
+      priority: "MEDIUM"
+
+  collaboration_protocols:
+    - "☁️ Cloud Infrastructure & DevSecOps Projects"
+    - "🤖 AI/ML Integration & Automation"
+    - "🧠 Agentic Workflow Development"
+    - "🔗 Model Context Protocol Innovation"
+
+  knowledge_base:
+    expertise:
+      - "AWS Cloud Architecture"
+      - "Python & AI Development"
+      - "DevSecOps Practices"
+      - "MCP Protocol Design"
+      - "Autonomous System Engineering"
+```
+
+<div align="center">
+
+**`[TRANSMISSION]`** 💬 **Query me about:** `AWS` · `AI/ML` · `DevSecOps` · `MCP` · `Agentic Systems` · `Cloud Architecture`
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="30" /> NETWORK.LINK :: ESTABLISH_CONNECTION
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+
+### 🔗 **Initiating Handshake Protocol**
+
+*Connecting with engineers, innovators, and AI architects across the neural network...*
 
 <p align="center">
-  <a href="https://www.vipinkumar.me/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/🌐_Website-www.vipinkumar.me-blue?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/vipinkumar0312/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.vipinkumar.me/">
+    <img src="https://img.shields.io/badge/🌐_MAIN_PORTAL-www.vipinkumar.me-00fff0?style=for-the-badge&labelColor=000000&color=00fff0"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vipinkumar0312/">
+    <img src="https://img.shields.io/badge/⚡_LINKEDIN-Connect_Now-00a2ff?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=00a2ff"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/📡_TRANSMISSION-Send_Signal-8000ff?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=8000ff"/>
+  </a>
 </p>
 
-**⭐ Feel free to star my repositories if you find them helpful!**
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║  > CONNECTION_ESTABLISHED                                ║
+║  > READY_FOR_COLLABORATION                               ║
+║  > BUILDING_THE_FUTURE = TRUE                            ║
+║                                                           ║
+║  ⭐ Star repos that spark your neural circuits!          ║
+║  🤝 Let's architect the autonomous future together!      ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8000ff,50:00a2ff,100:00fff0&height=120&section=footer"/>
 
 </div>
