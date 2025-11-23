@@ -37,7 +37,7 @@
 """
 ╔══════════════════════════════════════════════════════════╗
 ║  AI-DRIVEN ENGINEER INSTANCE :: VIPIN KUMAR v2.0        ║
-║  Runtime: Earth | Location: India | Status: ACTIVE      ║
+║  Runtime: Earth | Location: USA | Status: ACTIVE        ║
 ╚══════════════════════════════════════════════════════════╝
 """
 
@@ -47,7 +47,8 @@ class AIEngineer:
             "name": "Vipin Kumar",
             "role": "Sr. DevSecOps Engineer",
             "version": "2.0.AI",
-            "status": "⚡ ONLINE"
+            "status": "⚡ ONLINE",
+            "location": "USA"
         }
 
         self.core_directives = [
